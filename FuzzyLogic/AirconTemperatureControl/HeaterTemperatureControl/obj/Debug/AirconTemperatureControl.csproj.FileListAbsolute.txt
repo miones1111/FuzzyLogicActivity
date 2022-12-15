@@ -1,0 +1,9 @@
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\BSCS - 3 (First Sem)\FuzzyLogicActivity\HeaterTemperatureControl\HeaterTemperatureControl\bin\Debug\HeaterTemperatureControl.exe
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\BSCS - 3 (First Sem)\FuzzyLogicActivity\HeaterTemperatureControl\HeaterTemperatureControl\bin\Debug\HeaterTemperatureControl.pdb
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\BSCS - 3 (First Sem)\FuzzyLogicActivity\HeaterTemperatureControl\HeaterTemperatureControl\obj\Debug\AirconTemperatureControl.csproj.AssemblyReference.cache
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\BSCS - 3 (First Sem)\FuzzyLogicActivity\HeaterTemperatureControl\HeaterTemperatureControl\obj\Debug\HeaterTemperatureControl.Form1.resources
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\BSCS - 3 (First Sem)\FuzzyLogicActivity\HeaterTemperatureControl\HeaterTemperatureControl\obj\Debug\HeaterTemperatureControl.Properties.Resources.resources
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\BSCS - 3 (First Sem)\FuzzyLogicActivity\HeaterTemperatureControl\HeaterTemperatureControl\obj\Debug\AirconTemperatureControl.csproj.GenerateResource.cache
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\BSCS - 3 (First Sem)\FuzzyLogicActivity\HeaterTemperatureControl\HeaterTemperatureControl\obj\Debug\AirconTemperatureControl.csproj.CoreCompileInputs.cache
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\BSCS - 3 (First Sem)\FuzzyLogicActivity\HeaterTemperatureControl\HeaterTemperatureControl\obj\Debug\HeaterTemperatureControl.exe
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\BSCS - 3 (First Sem)\FuzzyLogicActivity\HeaterTemperatureControl\HeaterTemperatureControl\obj\Debug\HeaterTemperatureControl.pdb
